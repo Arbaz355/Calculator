@@ -19,6 +19,11 @@ body{
     .Calculator{
         flex:0 0 100%;
     }
+    body{
+        min-height:80vh;
+        display:flex;
+        justify-content:center;
+        align-items: center;
     
 }
 .text {
