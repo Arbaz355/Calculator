@@ -20,7 +20,7 @@ body{
         flex:0 0 100%;
     }
     body{
-        min-height:80vh;
+        min-height:70vh;
         display:flex;
         justify-content:center;
         align-items: center;
